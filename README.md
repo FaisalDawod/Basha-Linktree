@@ -1,4 +1,4 @@
-# Basha_Linktree
+# Basha-Linktree
 
 ### **_About this project:_** 
 
